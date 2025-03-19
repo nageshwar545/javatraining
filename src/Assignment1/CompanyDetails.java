@@ -1,7 +1,5 @@
 package Assignment1;
 
-import java.util.Arrays;
-
 public class CompanyDetails {
     public String companyName;
     public String country;
